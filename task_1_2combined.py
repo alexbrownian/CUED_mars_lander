@@ -11,7 +11,7 @@ from math import sqrt
 # CHOOSE WHAT TO RUN
 # =============================================
 MODE = "A1"            # "A1" for Assignment 1, "A2" for Assignment 2
-TASK_A1 = 2            # 1: basic Euler spring; 2: compare Euler vs Verlet and timesteps; 3: find critical dt for Verlet
+TASK_A1 = 3            # 1: basic Euler spring; 2: compare Euler vs Verlet and timesteps; 3: find critical dt for Verlet
 SCENARIO = "circular"  # A2 only: "descent", "circular", "elliptic", "escape"
 
 # =============================================
